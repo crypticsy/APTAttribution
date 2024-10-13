@@ -1,12 +1,20 @@
 # Advanced Persistent Threats Attribution usnign Deep Reinforcement Learning - ACM DTRAP
 
+<br/>
+
 ## Abstract
 
 Advanced Persistent Threats (APTs) are a class of cyber-attacks that are characterized by their stealthy and persistent nature. APTs are often state-sponsored and are designed to remain undetected for long periods of time. The ability to attribute APTs to their respective threat actors is crucial for understanding the motives and capabilities of the attackers. However, APTs are designed to be stealthy and attribution is a challenging task. In this paper, we propose a novel approach for APT attribution using deep reinforcement learning (DRL). We model the APT attribution problem as a Markov Decision Process (MDP) and use DRL to learn the optimal policy for attributing APTs to their respective threat actors. We evaluate our approach using a dataset of APTs and show that our approach outperforms existing methods for APT attribution.
 
+<br/>
+
+
 ##  Dataset
 
 The dataset used in this paper is a collection of APTs obtained from https://github.com/cyber-research/APTMalware. This dataset contains over 3,500 malware samples that are related to 12 APT groups which alledgedly are sponsored by 5 different nation-states. 
+
+<br/>
+
 
 ## Files
 
