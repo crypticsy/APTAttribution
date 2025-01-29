@@ -1,4 +1,4 @@
-# Advanced Persistent Threats Attribution usnign Deep Reinforcement Learning - ACM DTRAP
+# Advanced Persistent Threats Attribution usnig Deep Reinforcement Learning - ACM DTRAP
 
 <br/>
 
